@@ -1,0 +1,41 @@
+/Sidekick Tool Release.sln
+/Logs/*
+/Logs
+/Library/*
+/Library
+/ProjectSettings/*
+/ProjectSettings
+/UserSettings/*
+/UserSettings
+/Packages/*
+/Packages
+/Assets/_Sidekick_ROM
+/Assets/_Sidekick_ROM.meta
+/Assets/AmplifyShaderEditor.*
+/Assets/AmplifyShaderEditor
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Assets/CustomPoses.meta
+/Assets/CustomPoses
+/Assets/Scenes.meta
+/Assets/Scenes
+/Assets/Settings.meta
+/Assets/Settings
+/Assets/Synty_Internal.meta
+/Assets/Synty_Internal
+/Assets/Synty_Unreleased_Content.meta
+/Assets/Synty_Unreleased_Content
+/Assets/Synty/SidekickCharacters/_Demos.meta
+/Assets/Synty/SidekickCharacters/_Demos
+/Assets/Synty/SidekickCharacters/Characters.meta
+/Assets/Synty/SidekickCharacters/Characters
+/Assets/Temporary.meta
+/Assets/Temporary
+/Assets/TextMesh Pro.meta
+/Assets/TextMesh Pro
+/Assets/TutorialInfo.meta
+/Assets/TutorialInfo
+/Assets/UI Toolkit.meta
+/Assets/UI Toolkit
+/Assets/UniversalRenderPipelineGlobalSettings.asset
+/Assets/UniversalRenderPipelineGlobalSettings.asset.meta
