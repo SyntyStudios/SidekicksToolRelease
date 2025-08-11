@@ -1,0 +1,7 @@
+﻿{
+  "name": "com.synty.sidekicks.tool",
+  "version": "1.0.29",
+  "description": "The Synty Sidekicks Tooling.",
+  "displayName": "Synty Sidekicks Tool",
+  "unity": "2021.3"
+}
